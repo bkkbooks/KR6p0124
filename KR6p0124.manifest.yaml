@@ -1,0 +1,695 @@
+canonical_identifier: bkk:krp/KR6p0124/v1
+canonical_location: https://kanripo.org/bkk/KR6p0124/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 報恩論
+  identifiers:
+    alt_id:
+    - X62n1205
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1205.xml
+    old_id: X62n1205
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0124_000.yaml, hash: 'sha256:fbe7ba91555a0c3b6378b7e57f476c56f9bf33edc3bdae6c42e63fccd2d3134c'}
+  - {seq: 1, filename: KR6p0124_001.yaml, hash: 'sha256:5331ef642867c315e3a62583db857d3b429445f6d1fa42ce10babc92575128d7'}
+  - {seq: 2, filename: KR6p0124_002.yaml, hash: 'sha256:af78d6663bd7de697ba12c01c1502d64dd1c1dd757753a57e9f7675813baa51b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0124_000.markers.yaml, hash: 'sha256:f0183a0e3114055239c5487b524f93df2977bc2f7e7ac31a49f7ed542c65ae37'}
+  - {seq: 1, role: markers, filename: assets/KR6p0124_001.markers.yaml, hash: 'sha256:d30e8c99207825151ec6803de32eb0fdca82063a0d214dfba1322a302107d118'}
+  - {seq: 2, role: markers, filename: assets/KR6p0124_002.markers.yaml, hash: 'sha256:32f3fb1e6fb299c9127ca9024be082be51562d3d972de734bb22b5c8123e5324'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-1
+    span:
+    - front
+    - 3
+    - 3
+  label: 報恩論目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-2
+    span:
+    - front
+    - 586
+    - 586
+  label: 列聖護法綸音
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-3
+    span:
+    - front
+    - 597
+    - 597
+  label: 順治十五年九月　世祖章皇帝敕諭玉琳通琇國師書
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-4
+    span:
+    - front
+    - 952
+    - 952
+  label: 又順治十六年四月
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-5
+    span:
+    - front
+    - 1424
+    - 1424
+  label: 又
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-6
+    span:
+    - front
+    - 1649
+    - 1649
+  label: 康熈四十年嘉平月　聖祖仁皇帝御製補陀羅迦普濟寺󳬴記
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-7
+    span:
+    - front
+    - 2024
+    - 2024
+  label: 又御製重修天竺寺󳬴文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-8
+    span:
+    - front
+    - 2463
+    - 2463
+  label: 雍正元年六月十八日　世宗憲皇帝硃批浙江巡撫(臣)李馥奏
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-9
+    span:
+    - front
+    - 3171
+    - 3171
+  label: 又雍正二年四月十九日
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-10
+    span:
+    - front
+    - 3316
+    - 3316
+  label: 又雍正八年二月初三日　硃批福建巡撫(臣)劉世明奏
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-11
+    span:
+    - front
+    - 3495
+    - 3495
+  label: 又雍正十一年二月十五日
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-12
+    span:
+    - front
+    - 4873
+    - 4873
+  label: 又御選圓明居士語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-13
+    span:
+    - front
+    - 5176
+    - 5176
+  label: 乾隆元年　高宗純皇帝諭
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-14
+    span:
+    - front
+    - 5186
+    - 5186
+  label: 高宗純皇帝諭
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-15
+    span:
+    - front
+    - 5623
+    - 5623
+  label: 附大清會典事例一則
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-16
+    span:
+    - front
+    - 5722
+    - 5722
+  label: 又乾隆三十二年　御製寶相寺󳬴文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-17
+    span:
+    - front
+    - 6961
+    - 6961
+  label: 證經(十二則)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-18
+    span:
+    - front
+    - 6966
+    - 6966
+  label: 無量壽經(魏康僧鎧譯)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-19
+    span:
+    - front
+    - 8995
+    - 8995
+  label: 無量清淨平等覺經(漢支婁迦讖譯)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-20
+    span:
+    - front
+    - 9362
+    - 9362
+  label: 阿彌陀經(吳支謙譯)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-21
+    span:
+    - front
+    - 9682
+    - 9682
+  label: 大寶積經無量壽會(唐菩提流志譯)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-22
+    span:
+    - front
+    - 10039
+    - 10039
+  label: 無量壽莊嚴經(宋法賢譯)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-23
+    span:
+    - front
+    - 10364
+    - 10364
+  label: 阿彌陀經(姚秦鳩摩羅什譯)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-24
+    span:
+    - front
+    - 10590
+    - 10590
+  label: 稱讚淨土佛攝受經(唐玄奘譯即羅什譯小本阿彌陀經)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-25
+    span:
+    - front
+    - 12540
+    - 12540
+  label: 觀無量壽佛經(劉宋畺良耶舍譯)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-26
+    span:
+    - front
+    - 13866
+    - 13866
+  label: 大集賢護經(隋都那崛多譯)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-27
+    span:
+    - front
+    - 16082
+    - 16082
+  label: 答問(二十五則)
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-28
+    span:
+    - front
+    - 16088
+    - 16088
+  label: 答問
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0124_X_000-mulu-29
+    span:
+    - front
+    - 34479
+    - 34479
+  label: 世界數量圖(附表)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20104
+  label: 報恩論卷正上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 淨土法門綱宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-2
+    span:
+    - body
+    - 3545
+    - 3545
+  label: 無量壽經綱宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-3
+    span:
+    - body
+    - 6511
+    - 6511
+  label: 往生正因定論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-4
+    span:
+    - body
+    - 8961
+    - 8961
+  label: 辨正五逆謗法不得往生說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-5
+    span:
+    - body
+    - 9870
+    - 9870
+  label: 二教通喻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-6
+    span:
+    - body
+    - 10878
+    - 10878
+  label: 雜說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-7
+    span:
+    - body
+    - 10880
+    - 10880
+  label: 雜說
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-8
+    span:
+    - body
+    - 16259
+    - 16259
+  label: 方維甸抱朴子序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-9
+    span:
+    - body
+    - 18992
+    - 18992
+  label: 代眾回向發願疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0124_X_001-mulu-10
+    span:
+    - body
+    - 19864
+    - 19864
+  label: 寫經記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 38929
+  label: 報恩論卷正下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 醒迷歌(五十章)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-2
+    span:
+    - body
+    - 2305
+    - 2305
+  label: 勸俗歌(五十章)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-3
+    span:
+    - body
+    - 4474
+    - 4474
+  label: 往生公據
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-4
+    span:
+    - body
+    - 4474
+    - 4474
+  label: 往生公據述意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-5
+    span:
+    - body
+    - 5219
+    - 5219
+  label: 往生公據
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-6
+    span:
+    - body
+    - 8050
+    - 8050
+  label: 阿彌陀經禮想儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-7
+    span:
+    - body
+    - 9455
+    - 9455
+  label: 戒殺懺願偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-8
+    span:
+    - body
+    - 9796
+    - 9796
+  label: 附錄慈雲懺主懺願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-9
+    span:
+    - body
+    - 10361
+    - 10361
+  label: 附一法治四病說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-10
+    span:
+    - body
+    - 13585
+    - 13585
+  label: 改定僧玉峯摩崖圓滿白眾偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-11
+    span:
+    - body
+    - 15511
+    - 15511
+  label: 上鍾子勤夫子書
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-12
+    span:
+    - body
+    - 24468
+    - 24468
+  label: 穀梁補註再書後
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-13
+    span:
+    - body
+    - 25208
+    - 25208
+  label: 致楊仁山書
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-14
+    span:
+    - body
+    - 27554
+    - 27554
+  label: 善生經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-15
+    span:
+    - body
+    - 27800
+    - 27800
+  label: 精嚴寺同戒錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-16
+    span:
+    - body
+    - 29599
+    - 29599
+  label: 又序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-17
+    span:
+    - body
+    - 34733
+    - 34733
+  label: 天台縣護持叢林永禁私佔示
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-18
+    span:
+    - body
+    - 36017
+    - 36017
+  label: 募修揚州高󴐊寺正殿疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-19
+    span:
+    - body
+    - 36832
+    - 36832
+  label: 募建真覺寺緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-20
+    span:
+    - body
+    - 37841
+    - 37841
+  label: 補玉峯師念佛開心偈六首
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-21
+    span:
+    - body
+    - 38032
+    - 38032
+  label: 達磨祖師像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-22
+    span:
+    - body
+    - 38079
+    - 38079
+  label: 又指畫像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-23
+    span:
+    - body
+    - 38140
+    - 38140
+  label: 大通智勝佛拈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-24
+    span:
+    - body
+    - 38250
+    - 38250
+  label: 靜坐箴
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0124_X_002-mulu-25
+    span:
+    - body
+    - 38442
+    - 38442
+  label: 留僊閣頌
+  type: mulu
+  level: 1
+hash: sha256:82037259533d3e2df6101d935c9ab55b4ae6ef62e76a00da12d0ad3726fc8911
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
